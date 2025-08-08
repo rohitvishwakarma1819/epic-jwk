@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "myapp-key",
+      "use": "sig",
+      "alg": "RS256",
+      "n": "jd53Vkq7BUDPqvqP4cMcyDkcGnUVMKliTxp1TmahnToReS0UHKxVL3m7efznOUOpa0b-J-2Yc1F67hk2S2vZjfDSqtWhhJ-m6wXuYa1VohkCqPJB-DZLPLV2630Z_V--zG-KmmLfTj2HcNZEX-FHTNBiig9wTymxG_R7wFWd736Sp-ELozlVgnTyVhu8gFLv5dFbIsdVn5esNGRZ0EQk0rKgtkQZ9e2aoGxWiVJyhG4T0BBzMSRvQ0ycd6XYjCuAh8p1RW0998E997yaHsRH8g3qnT173fvOKJb0EdHcBuyC6FM0aPg2OuhNwnS_ds4u2Q1qkV-AGJ-oMTp30M7YjQ",
+      "e": "AQAB"
+    }
+  ]
+}
